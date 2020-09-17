@@ -1,0 +1,2 @@
+# CodingNinjasSolution
+as name suggests
